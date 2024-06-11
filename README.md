@@ -4,10 +4,9 @@ This Jupyter Notebook is designed for analyzing data distributions and handling 
 Contents:
 - Data Loading
 - Initial Distribution Analysis
-- Statistical Tests for Normality
-- Skewness Calculation
 - Data Visualization
-- Techniques to Handle Skewness
--- Log Transformation
--- Box-Cox Transformation
--- Data Normalization
+- Statistical Tests for Normality
+- Skewness Calculation and techniques to Handle it
+* Log Transformation
+* Box-Cox Transformation
+* Data Normalization
