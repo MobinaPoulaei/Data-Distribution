@@ -6,7 +6,12 @@ Contents:
 - Initial Distribution Analysis
 - Data Visualization
 - Statistical Tests for Normality
-- Skewness Calculation and techniques to Handle it:
+- Skewness Calculation and techniques to Handle it
   - Log Transformation
   - Box-Cox Transformation
 - Data Normalization
+
+Expected Outcomes:
+- Better understanding of data distribution and skewness
+- Ability to apply transformations to normalize data
+- Improved accuracy and performance of statistical and machine learning models through data normalization
