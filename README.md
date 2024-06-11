@@ -6,7 +6,7 @@ Contents:
 - Initial Distribution Analysis
 - Data Visualization
 - Statistical Tests for Normality
-- Skewness Calculation and techniques to Handle it
+- Skewness Calculation and techniques to Handle it:
   - Log Transformation
   - Box-Cox Transformation
-  - Data Normalization
+- Data Normalization
