@@ -15,3 +15,5 @@ Expected Outcomes:
 - Better understanding of data distribution and skewness
 - Ability to apply transformations to normalize data
 - Improved accuracy and performance of statistical and machine learning models through data normalization
+
+For a detailed explanation, you can read our comprehensive blog post on [Data Distribution and Its Types in Machine Learning](https://cafetadris.com/blog/%d8%aa%d9%88%d8%b2%db%8c%d8%b9-%d8%af%d8%a7%d8%af%d9%87-%d9%88-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a2%d9%86-%d8%af%d8%b1-%db%8c%d8%a7%d8%af%da%af%db%8c%d8%b1%db%8c-%d9%85%d8%a7%d8%b4%db%8c%d9%86/).
